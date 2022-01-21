@@ -1,7 +1,7 @@
-# Geometry-dash
+# Geometry-dash Tutorial
 By Ihaveatrashaim
 
-# Part 1
+# Part 1 Tutorial Video
 https://www.youtube.com/watch?v=9fAdE4z_Ezo
 
 # Subscribe
